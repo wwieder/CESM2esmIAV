@@ -4,3 +4,4 @@ Analysis that looks at inter-annual and seasonal variability of terrestrial C fl
 Work here as been submitted by Wieder et al. (2021) Interannual and seasonal drivers of carbon cycle variability represented by the Community Earth System Model (CESM2) _Global Biogeochemical Cycles_. In revision
 
 Please reference this paper when using this code.
+[![DOI](https://zenodo.org/badge/322604882.svg)](https://zenodo.org/badge/latestdoi/322604882)
